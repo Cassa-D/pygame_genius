@@ -11,7 +11,7 @@ Created with:
 
 > This game needs [python](https://www.python.org/downloads/) and [pygame](https://www.pygame.org/wiki/GettingStarted) to work.
 
-Just download the `.py` file and open in a terminal run:
+Just download the `.py` file and in a terminal run:
 ```bash
 > python game.py
 ```
